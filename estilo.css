@@ -13,10 +13,10 @@ margin: 0px;
 padding: 0px;
 }
 .principal{
-    background-image: url(Imagens/Background.png);
+    background-image: url(Background.png);
      background-size: contain;
      background-repeat: no-repeat;
 }
-.conteiner{
+.container{
     height: 100vh;
 }
